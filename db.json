@@ -1,46 +1,54 @@
 
 {
  
-  "type_service": [
+    "type_service": [
         {
-          "id":"1",
-          "name_type":"Cleaning Services",
-          "services": [
+            "id":"1",
+            "name_type":"Cleaning Services",
+            "services": [
             {
-              "id": "1",
-              "name_service":"Vacuuming & Sweeping",
-              "origin_price":"20",
-              "pro_price":"15",
-              "img":"https://www.google.com/url?sa=i&source=images&cd=&ved=2ahUKEwiZqfD62YHlAhWd63MBHRnlB4gQjRx6BAgBEAQ&url=https%3A%2F%2Fwww.quickcleanservices.net%2F&psig=AOvVaw3JJWzZX-Cbjz6lANB_IrQv&ust=1570247123823821"
+                "id": "1",
+                "name_service":"Vacuuming & Sweeping",
+                "full_price":"20",
+                "sale_price":"15",
+                "img_url":"https://www.google.com/url?sa=i&source=images&cd=&ved=2ahUKEwiZqfD62YHlAhWd63MBHRnlB4gQjRx6BAgBEAQ&url=https%3A%2F%2Fwww.quickcleanservices.net%2F&psig=AOvVaw3JJWzZX-Cbjz6lANB_IrQv&ust=1570247123823821"
             },
             {
-              "id": "2",
-              "name_service":"Bathroom Cleaning",
-              "origin_price":"20",
-              "pro_price":"15",
-              "img":"https://www.google.com/url?sa=i&source=images&cd=&ved=2ahUKEwiZqfD62YHlAhWd63MBHRnlB4gQjRx6BAgBEAQ&url=https%3A%2F%2Fwww.quickcleanservices.net%2F&psig=AOvVaw3JJWzZX-Cbjz6lANB_IrQv&ust=1570247123823821"
+                "id": "2",
+                "name_service":"Bathroom Cleaning",
+                "full_price":"20",
+                "sale_price":"15",
+                "img_url":"https://www.google.com/url?sa=i&source=images&cd=&ved=2ahUKEwiZqfD62YHlAhWd63MBHRnlB4gQjRx6BAgBEAQ&url=https%3A%2F%2Fwww.quickcleanservices.net%2F&psig=AOvVaw3JJWzZX-Cbjz6lANB_IrQv&ust=1570247123823821"
+            },
+            {
+                "id": "3",
+                "name_service":"Vacuuming & Sweeping",
+                "full_price":"20",
+                "sale_price":"15",
+                "img_url":"https://www.google.com/url?sa=i&source=images&cd=&ved=2ahUKEwiZqfD62YHlAhWd63MBHRnlB4gQjRx6BAgBEAQ&url=https%3A%2F%2Fwww.quickcleanservices.net%2F&psig=AOvVaw3JJWzZX-Cbjz6lANB_IrQv&ust=1570247123823821"
             }
           ]
         },
         {
-          "id":"1",
-          "name_type":"Cleaning Services",
-          "services": [
-            {
-              "id": "1",
-              "name_service":"Vacuuming & Sweeping",
-              "origin_price":"20",
-              "pro_price":"15",
-              "img":"https://www.google.com/url?sa=i&source=images&cd=&ved=2ahUKEwiZqfD62YHlAhWd63MBHRnlB4gQjRx6BAgBEAQ&url=https%3A%2F%2Fwww.quickcleanservices.net%2F&psig=AOvVaw3JJWzZX-Cbjz6lANB_IrQv&ust=1570247123823821"
-            },
-            {
-              "id": "2",
-              "name_service":"Bathroom Cleaning",
-              "origin_price":"20",
-              "pro_price":"15",
-              "img":"https://www.google.com/url?sa=i&source=images&cd=&ved=2ahUKEwiZqfD62YHlAhWd63MBHRnlB4gQjRx6BAgBEAQ&url=https%3A%2F%2Fwww.quickcleanservices.net%2F&psig=AOvVaw3JJWzZX-Cbjz6lANB_IrQv&ust=1570247123823821"
-            }
-          ]
+                "id":"1",
+                "name_type":"Electronic Services",
+                "services": [
+                {
+                    "id": "1",
+                    "name_service":"Vacuuming & Sweeping",
+                    "full_price":"20",
+                    "sale_price":"15",
+                    "img_url":"https://www.google.com/url?sa=i&source=images&cd=&ved=2ahUKEwiZqfD62YHlAhWd63MBHRnlB4gQjRx6BAgBEAQ&url=https%3A%2F%2Fwww.quickcleanservices.net%2F&psig=AOvVaw3JJWzZX-Cbjz6lANB_IrQv&ust=1570247123823821"
+                },
+                {
+                    "id": "2",
+                    "name_service":"Bathroom Cleaning",
+                    "full_price":"20",
+                    "sale_price":"15",
+                    "img_url":"https://www.google.com/url?sa=i&source=images&cd=&ved=2ahUKEwiZqfD62YHlAhWd63MBHRnlB4gQjRx6BAgBEAQ&url=https%3A%2F%2Fwww.quickcleanservices.net%2F&psig=AOvVaw3JJWzZX-Cbjz6lANB_IrQv&ust=1570247123823821"
+                }
+            ]
         }
-      ]
+    ]
+    
 }
