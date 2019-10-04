@@ -1,14 +1,46 @@
+
 {
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+ 
+  "type_service": [
+        {
+          "id":"1",
+          "name_type":"Cleaning Services",
+          "services": [
+            {
+              "id": "1",
+              "name_service":"Vacuuming & Sweeping",
+              "origin_price":"20",
+              "pro_price":"15",
+              "img":"https://www.google.com/url?sa=i&source=images&cd=&ved=2ahUKEwiZqfD62YHlAhWd63MBHRnlB4gQjRx6BAgBEAQ&url=https%3A%2F%2Fwww.quickcleanservices.net%2F&psig=AOvVaw3JJWzZX-Cbjz6lANB_IrQv&ust=1570247123823821"
+            },
+            {
+              "id": "2",
+              "name_service":"Bathroom Cleaning",
+              "origin_price":"20",
+              "pro_price":"15",
+              "img":"https://www.google.com/url?sa=i&source=images&cd=&ved=2ahUKEwiZqfD62YHlAhWd63MBHRnlB4gQjRx6BAgBEAQ&url=https%3A%2F%2Fwww.quickcleanservices.net%2F&psig=AOvVaw3JJWzZX-Cbjz6lANB_IrQv&ust=1570247123823821"
+            }
+          ]
+        },
+        {
+          "id":"1",
+          "name_type":"Cleaning Services",
+          "services": [
+            {
+              "id": "1",
+              "name_service":"Vacuuming & Sweeping",
+              "origin_price":"20",
+              "pro_price":"15",
+              "img":"https://www.google.com/url?sa=i&source=images&cd=&ved=2ahUKEwiZqfD62YHlAhWd63MBHRnlB4gQjRx6BAgBEAQ&url=https%3A%2F%2Fwww.quickcleanservices.net%2F&psig=AOvVaw3JJWzZX-Cbjz6lANB_IrQv&ust=1570247123823821"
+            },
+            {
+              "id": "2",
+              "name_service":"Bathroom Cleaning",
+              "origin_price":"20",
+              "pro_price":"15",
+              "img":"https://www.google.com/url?sa=i&source=images&cd=&ved=2ahUKEwiZqfD62YHlAhWd63MBHRnlB4gQjRx6BAgBEAQ&url=https%3A%2F%2Fwww.quickcleanservices.net%2F&psig=AOvVaw3JJWzZX-Cbjz6lANB_IrQv&ust=1570247123823821"
+            }
+          ]
+        }
+      ]
 }
