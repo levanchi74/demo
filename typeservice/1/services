@@ -1,0 +1,27 @@
+{
+            "id":"1",
+            "name_type":"Cleaning Services",
+            "services": [
+            {
+                "id": "1",
+                "name_service":"Vacuuming & Sweeping",
+                "full_price":"20",
+                "sale_price":"15",
+                "img_url":"https://img1.wsimg.com/isteam/ip/bbebe686-f935-4e5a-8c05-e7279b0017e1/logo/b2f356dd-20e9-4a20-a256-eff4de1153ce.png/:/rs=h:150/qt=q:95"
+            },
+            {
+                "id": "2",
+                "name_service":"Bathroom Cleaning",
+                "full_price":"20",
+                "sale_price":"15",
+                "img_url":"https://img1.wsimg.com/isteam/ip/bbebe686-f935-4e5a-8c05-e7279b0017e1/logo/b2f356dd-20e9-4a20-a256-eff4de1153ce.png/:/rs=h:150/qt=q:95"
+            },
+            {
+                "id": "3",
+                "name_service":"Vacuuming & Sweeping",
+                "full_price":"20",
+                "sale_price":"15",
+                "img_url":"https://img1.wsimg.com/isteam/ip/bbebe686-f935-4e5a-8c05-e7279b0017e1/logo/b2f356dd-20e9-4a20-a256-eff4de1153ce.png/:/rs=h:150/qt=q:95"
+            }
+          ]
+  }
